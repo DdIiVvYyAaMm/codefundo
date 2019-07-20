@@ -7,5 +7,5 @@ The salient features of the model that we propose are:
 
 * A reliable counting methodology.
 
-* A reliable `online voter verification` and `voting enabling` ledger record system.
+* A reliable `online voter verification` and `online voting enabling` ledger record system.
 ```
