@@ -5,5 +5,5 @@ The salient features of the model that we propose are:
 > A covert 1 to Counting election model.
 
 ```
-A 'reliable counting' methodology
+A `reliable counting` methodology
 ```
