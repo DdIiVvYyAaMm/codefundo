@@ -28,8 +28,7 @@ We look forward to design an app where an Indian citizen residing in India, of a
 soon as they will be 18, their verification based upon the AADHAR number details will initiate. Once the verification is authenticated by a 
 government miner (such as, the police), the voter ID card will be generated and sent to the person via mail.
 
-
 API's Flowchart:
-```
+
 ![](images/Voter%20ID%20Generation.jpeg)
-```
+
