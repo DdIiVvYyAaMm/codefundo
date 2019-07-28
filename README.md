@@ -1,6 +1,6 @@
 # Codefundo 2019
 ---
-Team Phoenix
+**Team Phoenix**
 
 BITS PILANI, Pilani Campus
 * Divyam Sharma(@DdIiVvYyAaMm)
