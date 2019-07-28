@@ -30,3 +30,4 @@ government miner (such as, the police), the voter ID card will be generated and 
 
 
 API's Flowchart attached below:
+Flowchart.pdf
