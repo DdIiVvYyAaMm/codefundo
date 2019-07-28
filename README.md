@@ -34,7 +34,7 @@ To allow a user to register as a voter, they will be required to provide three i
 
 We look forward to design an app where an Indian citizen residing in India, of any age, can register on the app. Once they register, as 
 soon as they will be 18, their verification based upon the AADHAR number details will initiate. Once the verification is authenticated by a 
-government miner (such as, the police), the voter ID card will be generated and sent to the person via mail.
+government miner (such as, the police), the voter ID card will be generated and sent to the person via mail. The model envisaged hitherto will lead to a generation  of a total of 2 transations per user registered.
 
 API's Flowchart:
 
