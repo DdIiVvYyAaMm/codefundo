@@ -1,4 +1,4 @@
-# codefundo
+# Codefundo 2019
 Democratic voting is a crucial and serious event in any country. The most common way in which
 a country votes is through a paper based system, but is it not time to bring voting into the 21st
 century of modern technology? Digital voting is the use of electronic devices, such as voting
@@ -20,10 +20,8 @@ matters.
 To allow a user to register as a voter, they will be required to provide three important details, which will be enough to auntheticate their bonafidity. The three unnegotiable details required will be:
 ```
 * AADHAR Card Number
-* Residential/Postal Address
+* Permanent Residential/Postal Address
 * Email ID and a Pin for future correspondence
 ```
 
-Once someone has registered an automated government miner analyses the transaction and if
-they haven’t been awarded or denied a vote, the miner will make the decision as to whether to
-verify the user or not. Once the user has been granted voting, the request with the details will be sent to the Election Commission of India and voter ID card will be delivered to the user's address as in normal stipulated time.
+We look forward to design an app where an Indian citizen residing in India, of any age, can register on the app. Once they register, as soon as they will be 18, their verification based upon the AADHAR number details will initiate. Once the verification is authenticated by a government miner (such as, the police), the voter ID card will be generated and sent to the person via mail.
