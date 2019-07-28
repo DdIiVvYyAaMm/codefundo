@@ -30,3 +30,5 @@ government miner (such as, the police), the voter ID card will be generated and 
 
 
 API's Flowchart attached [here](https://github.com/DdIiVvYyAaMm/codefundo/blob/master/Flowchart.pdf).
+
+![](images/Voter ID Generation.jpeg)
