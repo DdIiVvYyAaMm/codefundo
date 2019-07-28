@@ -30,5 +30,6 @@ government miner (such as, the police), the voter ID card will be generated and 
 
 
 API's Flowchart:
-
+```
 ![](images/Voter%20ID%20Generation.jpeg)
+```
