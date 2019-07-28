@@ -1,4 +1,11 @@
 # Codefundo 2019
+---
+Team Phoenix
+BITS PILANI, Pilani Campus
+* Divyam Sharma(@DdIiVvYyAaMm)
+* Debabrata Choudhary
+* Suraj Kumar()
+---
 Democratic voting is a crucial and serious event in any country. The most common way in which
 a country votes is through a paper based system, but is it not time to bring voting into the 21st
 century of modern technology? Digital voting is the use of electronic devices, such as voting
