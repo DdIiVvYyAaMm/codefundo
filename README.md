@@ -17,11 +17,16 @@ establishing security within the system. Making sure that someone’s identity i
 for fraudulent purposes is important, especially when voting is considered, where every vote
 matters.
 
-To allow a user to register as a voter, they will be required to provide three important details, which will be enough to auntheticate their bonafidity. The three unnegotiable details required will be:
+To allow a user to register as a voter, they will be required to provide three important details, which will be enough to aunthenticate their genuineness. The three unnegotiable details required will be:
 ```
 * AADHAR Card Number
 * Permanent Residential/Postal Address
-* Email ID and a Pin for future correspondence
+* Email ID
 ```
 
-We look forward to design an app where an Indian citizen residing in India, of any age, can register on the app. Once they register, as soon as they will be 18, their verification based upon the AADHAR number details will initiate. Once the verification is authenticated by a government miner (such as, the police), the voter ID card will be generated and sent to the person via mail.
+We look forward to design an app where an Indian citizen residing in India, of any age, can register on the app. Once they register, as 
+soon as they will be 18, their verification based upon the AADHAR number details will initiate. Once the verification is authenticated by a 
+government miner (such as, the police), the voter ID card will be generated and sent to the person via mail.
+
+
+API's Flowchart attached below:
